@@ -1,38 +1,78 @@
-.App {
-  text-align: center;
+a{
+    text-decoration: none;
+    color: rgb(66, 137, 172);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+a:hover{
+    color: rgb(0, 87, 131);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+li{
+    margin: 6px 0;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.aBlock{
+    text-decoration: none;
+    padding: 4px 0;
+    color: rgb(66, 137, 172);
+    display: block;
 }
 
-.App-link {
-  color: #61dafb;
+.aBlock:hover{
+    color: rgb(0, 87, 131);;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.subHeader{
+    margin: 0;
+    color: rgb(111, 111, 111);
+
+    font-size: 16px;
+    font-weight: bold;
 }
+
+.header{
+    margin: 0;
+    color: rgb(34, 34, 34);
+}
+
+/* Image */
+.bannerDiv {
+    margin: 0 auto 12px auto;
+    width: 100%;
+    height: 160px;
+    overflow: hidden;
+    text-align: center;
+}
+
+.bannerDiv p {
+    text-align: center;
+}
+
+/* Point */
+.TopicTitle{
+    padding: 10px 16px 10px 16px;
+    border-radius: 20px;
+    font-size: 18px;
+    background-color:   rgb(233, 240, 253);
+    color: rgb(68, 68, 68);
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+.TopicTable{
+    text-align: left;
+    padding: 5px 0;
+    width: 100%;
+}
+
+.TopicTable th{
+    font-weight: normal;
+    font-size: 17px;
+    padding: 5px 16px;
+}
+
+
+.TopicTable .th1{
+    width: 40%;
+}
+
+
