@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/appdevelopments.co/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/appdevelopments.co/static/js/main.01e66bd3.chunk.js",
+    "main.js.map": "/appdevelopments.co/static/js/main.01e66bd3.chunk.js.map",
+    "runtime-main.js": "/appdevelopments.co/static/js/runtime-main.ffa8745d.js",
+    "runtime-main.js.map": "/appdevelopments.co/static/js/runtime-main.ffa8745d.js.map",
+    "static/js/2.b0d0be16.chunk.js": "/appdevelopments.co/static/js/2.b0d0be16.chunk.js",
+    "static/js/2.b0d0be16.chunk.js.map": "/appdevelopments.co/static/js/2.b0d0be16.chunk.js.map",
+    "static/js/3.2393e258.chunk.js": "/appdevelopments.co/static/js/3.2393e258.chunk.js",
+    "static/js/3.2393e258.chunk.js.map": "/appdevelopments.co/static/js/3.2393e258.chunk.js.map",
+    "index.html": "/appdevelopments.co/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/appdevelopments.co/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.b0d0be16.chunk.js.LICENSE.txt": "/appdevelopments.co/static/js/2.b0d0be16.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/appdevelopments.co/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffa8745d.js",
+    "static/js/2.b0d0be16.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.01e66bd3.chunk.js"
+  ]
+}
