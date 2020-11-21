@@ -9,68 +9,88 @@
 
 <url>
   <loc>https://appdevelopments.co/</loc>
-  <lastmod>2020-11-18T04:53:33+00:00</lastmod>
+  <lastmod>2020-11-21T14:59:53+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://appdevelopments.co/aboutus/</loc>
-  <lastmod>2020-11-18T04:53:33+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-11-21T14:59:53+00:00</lastmod>
+  <priority>0.70</priority>
 </url>
 <url>
   <loc>https://appdevelopments.co/reference/swift/</loc>
-  <lastmod>2020-11-18T04:53:33+00:00</lastmod>
+  <lastmod>2020-11-21T14:59:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://appdevelopments.co/course/</loc>
-  <lastmod>2020-11-18T04:53:33+00:00</lastmod>
+  <lastmod>2020-11-21T14:59:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://appdevelopments.co/terms/</loc>
-  <lastmod>2020-11-18T04:53:33+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-11-21T14:59:53+00:00</lastmod>
+  <priority>0.50</priority>
 </url>
 <url>
   <loc>https://appdevelopments.co/donate/</loc>
-  <lastmod>2020-11-18T04:53:33+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2020-11-21T14:59:53+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://appdevelopments.co/reference/swift/playground/</loc>
-  <lastmod>2020-11-18T04:53:33+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2020-11-21T14:59:53+00:00</lastmod>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>https://appdevelopments.co/reference/swift/varlet/</loc>
-  <lastmod>2020-11-18T04:53:33+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2020-11-21T14:59:53+00:00</lastmod>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>https://appdevelopments.co/reference/swift/comments/</loc>
-  <lastmod>2020-11-18T04:53:33+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2020-11-21T14:59:53+00:00</lastmod>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>https://appdevelopments.co/reference/swift/arithemtic/</loc>
-  <lastmod>2020-11-18T04:53:33+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2020-11-21T14:59:53+00:00</lastmod>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>https://appdevelopments.co/reference/swift/datatypes/</loc>
-  <lastmod>2020-11-18T04:53:33+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2020-11-21T14:59:53+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://appdevelopments.co/reference/swift/string/</loc>
+  <lastmod>2020-11-21T14:59:53+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://appdevelopments.co/reference/swift/comparsion/</loc>
+  <lastmod>2020-11-21T14:59:53+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://appdevelopments.co/course/fullios/</loc>
+  <lastmod>2020-11-21T14:59:53+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://appdevelopments.co/course/fullios/resource&amp;video/</loc>
+  <lastmod>2020-11-21T14:59:53+00:00</lastmod>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>https://appdevelopments.co/course/iOSAnimation/</loc>
-  <lastmod>2020-11-18T04:53:33+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2020-11-21T14:59:53+00:00</lastmod>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>https://appdevelopments.co/course/iOSAnimation/resource&amp;video/</loc>
-  <lastmod>2020-11-18T04:53:33+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2020-11-21T14:59:53+00:00</lastmod>
+  <priority>0.90</priority>
 </url>
 
 
